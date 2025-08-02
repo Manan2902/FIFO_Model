@@ -1,0 +1,22 @@
+{
+    "DESIGN_NAME": "FIFO_Model",
+    "VERILOG_FILES": "dir::src/*.v",
+    "CLOCK_PORT": "Clk",
+    "CLOCK_PERIOD": 10.0,
+
+    "SYNTH_STRATEGY": "DELAY 4",
+    "MAX_FANOUT_CONSTRAINT": 6,
+    "FP_CORE_UTIL": 50,
+    "FP_PDN_HPITCH": 10,
+    "FP_PDN_VPITCH": 15,
+    "FP_PDN_HOFFSET": 2,
+    "FP_PDN_VOFFSET": 2,
+    "FP_IO_HLENGTH": 2,
+    "FP_IO_VLENGTH": 2,
+    "RT_MAX_LAYER": "met4",
+    "FP_PDN_CORE_RING": false,
+    "DESIGN_IS_CORE": false,
+    "PL_TIME_DRIVEN": true,
+    "RUN_LINTER": true,
+    "LINTER_INCLUDE_PDK_MODELS": true
+}

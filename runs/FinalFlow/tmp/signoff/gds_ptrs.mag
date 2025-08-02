@@ -1,0 +1,6 @@
+<< properties >>
+string FIXED_BBOX 0 0 25180 27324
+string GDS_END 2096328
+string GDS_FILE /openlane/designs/FIFO_Model/runs/FinalFlow/results/signoff/FIFO_Model.magic.gds
+string GDS_START 301552
+<< end >>

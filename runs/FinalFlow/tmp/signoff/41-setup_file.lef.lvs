@@ -1,0 +1,1 @@
+lvs {/openlane/designs/FIFO_Model/runs/FinalFlow/results/signoff/FIFO_Model.spice FIFO_Model} {/openlane/designs/FIFO_Model/runs/FinalFlow/tmp/signoff/38-FIFO_Model.pnl.v FIFO_Model} /home/manan/.volare/sky130A/libs.tech/netgen/sky130A_setup.tcl /openlane/designs/FIFO_Model/runs/FinalFlow/logs/signoff/41-FIFO_Model.lef.lvs.log -json
